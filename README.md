@@ -1,6 +1,5 @@
 # My name a Chase
 ## Full-Stack MEVN + .NET Core & MySQL
-### MongoDB/Mongoose, Express, Vue, Node
 
 <!--
 **Chase16Rogers/Chase16Rogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
